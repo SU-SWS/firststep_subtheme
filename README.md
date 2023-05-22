@@ -1,12 +1,12 @@
-# [Stanford Starter](https://github.com/SU-SWS/stanford_starter)
-##### Version: 8.x-1.0-dev
+# [Stanford Starter](https://github.com/SU-SWS/firststep_subtheme)
+##### Version: 9.x-1.0-dev
 
 Changelog: [Changelog.txt](CHANGELOG.txt)
 
 Description
 ---
 
-Stanford Starter is a Stanford sub-theme that works with the Stanford Basic theme.
+The First Step Subtheme is a Stanford sub-theme that works with the Stanford Basic theme and was built by modifying the [Stanford Starter](https://github.com/SU-SWS/stanford_starter) Subtheme
 
 Documentation
 ---
