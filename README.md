@@ -1,4 +1,4 @@
-# [Stanford Starter](https://github.com/SU-SWS/firststep_subtheme)
+# [First Step Subtheme](https://github.com/SU-SWS/firststep_subtheme)
 ##### Version: 9.x-1.0-dev
 
 Changelog: [Changelog.txt](CHANGELOG.txt)
